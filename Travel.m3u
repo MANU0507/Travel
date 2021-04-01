@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/mexicotravel.png" ,Mexico Travel
+https://www.dailymotion.com/cdn/live/video/x7xyu4v.m3u8?sec=IhDonKj8HIg_qe87phuJstvJmhUkJCwQapwRIdBBgFm24gatDw49IFrIEq5ewPZV8uK03BM6LWmUx9QUci5-JQ
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/turistiktv.png" ,Turistik TV
+https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
+
